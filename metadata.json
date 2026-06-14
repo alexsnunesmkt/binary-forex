@@ -1,0 +1,8 @@
+{
+  "name": "BinaryForex Scanner",
+  "description": "Plataforma de análise de Opções Binárias usando dados Forex em tempo real (1m/5m) com indicadores técnicos, alertas automáticos e validação por Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
